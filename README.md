@@ -66,6 +66,10 @@ Graduated: 2019
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakibul98&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul98&layout=compact&theme=tokyonight" />
 </p>
 
