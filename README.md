@@ -58,7 +58,7 @@ Graduated: 2019
 * 📄 Know about my experiences [https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing](https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing)
 ---
 
-```md
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,8 +68,6 @@ Graduated: 2019
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul98&layout=compact&theme=tokyonight" />
 </p>
-```
-
 
 ## 💬 Ask Me About
 
