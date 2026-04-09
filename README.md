@@ -58,13 +58,18 @@ Graduated: 2019
 * 📄 Know about my experiences [https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing](https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing)
 ---
 
+```md
 ## 📊 GitHub Stats
 
-![Rakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul98\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibul98&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul98\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul98&layout=compact&theme=tokyonight" />
+</p>
+```
 
----
 
 ## 💬 Ask Me About
 
