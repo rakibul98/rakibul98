@@ -1,29 +1,110 @@
-<h1 align="center">Hi 👋, I'm Rakibul Molla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Rakibul Molla
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul98&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul98" /> </p>
+### Software Developer | React • Flutter • Angular • React Native
 
-- 🌱 I’m currently learning **Next JS**
+Passionate software developer with **3+ years of experience** building scalable **web and mobile applications**.
+I love creating clean UI, reusable components, and production-ready applications that solve real-world problems.
 
-- 👨‍💻 All of my projects are available at [https://rakibul98.netlify.app/](https://rakibul98.netlify.app/)
+---
 
-- 💬 Ask me about **ReactJS, Flutter, Angular, React Native, Git, SQL Server, Snowflake. Basic Server Management & Production Deployment**
+## 🚀 About Me
 
-- 📫 How to reach me **rakibul.molla98@gmail.com**
+* 💼 Software Developer with **3+ years of industry experience**
+* 🌱 Currently learning **Next.js**
+* 📱 Building **cross-platform mobile apps** with Flutter & React Native
+* 💻 Strong in **frontend architecture and UI engineering**
+* ⚡ Experienced in **React, Angular, Flutter, and enterprise applications**
+* 🔗 Focused on **performance, scalability, and clean code**
+* 🚀 Interested in **full-stack product development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing](https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rakibulrajarhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibulrajarhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakibulm98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibulm98" height="30" width="40" /></a>
-<a href="https://fb.com/rakibul.rajarhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul.rajarhat" height="30" width="40" /></a>
-<a href="https://instagram.com/rakibul_insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibul_insta" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul98&show_icons=true&locale=en&layout=compact" alt="rakibul98" /></p>
+* React.js
+* Angular
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul98&show_icons=true&locale=en" alt="rakibul98" /></p>
+### Mobile
+
+* Flutter
+* React Native
+
+### Backend & Database
+
+* Node.js
+* REST API Integration
+* SQL Server
+* MySQL
+* MongoDB
+* Snowflake
+
+### Tools & Deployment
+
+* Git & GitHub
+* Firebase
+* Azure
+* Postman
+* Production Deployment
+* Basic Server Management
+
+---
+
+## 💼 Work Experience
+
+### Software Developer — Aiinhome Technologies Pvt Ltd
+
+📍 Kolkata, India
+🗓 April 2022 – December 2025
+
+* Built enterprise-level applications using **React and Angular**
+* Developed production-ready apps with **Flutter and React Native**
+* Integrated frontend with **REST APIs**
+* Created **reusable UI components**
+* Improved application performance and fixed production bugs
+* Worked with **SQL Server and Snowflake**
+* Collaborated with teams in planning and review meetings
+
+---
+
+## 🎓 Education
+
+**MCA** — B P Poddar Institute of Management and Technology
+Graduated: 2022
+
+**BCA** — Techno India College of Technology
+Graduated: 2019
+
+---
+
+## 🌐 Portfolio & Links
+
+* 💼 Portfolio: [rakibul98.netlify.app](https://rakibul98.netlify.app/)
+* 💼 LinkedIn: [linkedin.com/in/rakibulm98](https://linkedin.com/in/rakibulm98)
+* 📧 Email: [rakibul.molla98@gmail.com](mailto:rakibul.molla98@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Rakibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibul98\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul98\&layout=compact)
+
+---
+
+## 💬 Ask Me About
+
+ReactJS • Flutter • Angular • React Native • Git • SQL Server • Snowflake • Deployment
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex business requirements into simple, beautiful, and scalable user experiences.
