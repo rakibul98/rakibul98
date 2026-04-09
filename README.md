@@ -55,7 +55,7 @@ Graduated: 2019
 * 💼 Portfolio: [rakibul98.netlify.app](https://rakibul98.netlify.app/)
 * 💼 LinkedIn: [linkedin.com/in/rakibulm98](https://linkedin.com/in/rakibulm98)
 * 📧 Email: [rakibul.molla98@gmail.com](mailto:rakibul.molla98@gmail.com)
-* 📄 Know about my experiences [https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing](https://drive.google.com/file/d/1KsFd8-aAbRjk6LfO0Re_QGjBjYARNH5h/view?usp=sharing)
+* 📄 Know about my experiences[rakibul98.netlify.app/resume](https://rakibul98.netlify.app/resume/)
 ---
 
 
